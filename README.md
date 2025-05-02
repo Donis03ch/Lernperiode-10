@@ -10,8 +10,8 @@ Grob-Planung
 
 ## Arbeitspakete für 02.05.2025
 
-- [ ] Projekt.jsx überarbeiten
+- [x] Projekt.jsx überarbeiten
 - [ ] Kompetenzen & Soft Skills bearbeiten
 - [ ] Translator implementieren
 
-Heute habe ich ...()
+Heute habe ich mein projekt.jsx bearbeitet, um meine Projekte besser vorstellen zu können. Bei der Welcome-Section habe ich noch Platz für ein Bild von mir gemacht.()
