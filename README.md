@@ -13,6 +13,5 @@ Grob-Planung
 - [ ] Projekt.jsx überarbeiten
 - [ ] Kompetenzen & Soft Skills bearbeiten
 - [ ] Translator implementieren
-- [ ] 
 
 Heute habe ich ...()
