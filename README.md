@@ -14,4 +14,4 @@ Grob-Planung
 - [ ] Kompetenzen & Soft Skills bearbeiten
 - [ ] Translator implementieren
 
-Heute habe ich mein projekt.jsx bearbeitet, um meine Projekte besser vorstellen zu können. Bei der Welcome-Section habe ich noch Platz für ein Bild von mir gemacht.()
+Heute habe ich mein projekt.jsx bearbeitet, um meine Projekte besser vorstellen zu können. Bei der Welcome-Section habe ich noch Platz für ein Bild von mir gemacht. Die Navigation habe ich geändert zu Sections innerhalb des Index.jsx.()
