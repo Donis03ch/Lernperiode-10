@@ -18,8 +18,8 @@ Heute habe ich mein projekt.jsx bearbeitet, um meine Projekte besser vorstellen 
 
 ## Arbeitspakete für 09.05.2025
 
-- [ ] seperate Projekte überarbeiten
-- [ ] Kompetenzen & Soft Skills bearbeiten
+- [x] seperate Projekte überarbeiten
+- [x] Kompetenzen & Soft Skills bearbeiten
 - [ ] Translator implementieren
 
 Heute habe ich...()
