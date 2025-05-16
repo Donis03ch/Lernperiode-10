@@ -29,5 +29,7 @@ Heute habe ich...()
 - [ ] Projekte einfügen
 - [x] styles.css überarbeiten
 - [x] Translator implementieren
+- [x] index.html Chatting site
+- [x] Backend Chatting site
 
 Heute habe ich...()
