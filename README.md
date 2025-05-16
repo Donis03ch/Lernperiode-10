@@ -23,3 +23,11 @@ Heute habe ich mein projekt.jsx bearbeitet, um meine Projekte besser vorstellen 
 - [ ] Translator implementieren
 
 Heute habe ich...()
+
+## Arbeitspakete für 16.05.2025
+
+- [ ] Projekte einfügen
+- [x] styles.css überarbeiten
+- [x] Translator implementieren
+
+Heute habe ich...()
