@@ -46,6 +46,6 @@ Heute habe ich...()
 
 - [ ] Backend chat
 - [ ] group chat
-- [ ] 
+- [ ] profile customization
 
 Heute habe ich...()
