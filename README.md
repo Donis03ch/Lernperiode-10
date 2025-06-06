@@ -33,3 +33,19 @@ Heute habe ich...()
 - [x] Backend Chatting site
 
 Heute habe ich...()
+
+## Arbeitspakete für 23.05.2025
+
+- [x] main.js
+- [x] Backend Chatting site
+- [x] firebase implementieren
+
+Heute habe ich...()
+
+## Arbeitspakete für 06.06.2025
+
+- [ ] Backend chat
+- [ ] group chat
+- [ ] 
+
+Heute habe ich...()
