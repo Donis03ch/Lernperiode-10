@@ -44,8 +44,8 @@ Heute habe ich...()
 
 ## Arbeitspakete für 06.06.2025
 
-- [ ] Backend chat
-- [ ] group chat
+- [x] Backend chat
+- [x] group chat
 - [ ] profile customization
 
-Heute habe ich...()
+Heute habe ich weiter an dem Firebase backend gearbeitet. Ich musste die Kommunikation zwischen den Usern aufstellen. ( -w)
