@@ -49,3 +49,13 @@ Heute habe ich...()
 - [ ] profile customization
 
 Heute habe ich weiter an dem Firebase backend gearbeitet. Ich musste die Kommunikation zwischen den Usern aufstellen. ( -w)
+
+## Arbeitspakete für 13.06.2025
+
+- [ ] group chat
+- [ ] profile customization
+- [x] unadd function
+- [x] delete chat function
+
+Heute habe ich...()
+
