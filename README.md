@@ -59,3 +59,10 @@ Heute habe ich weiter an dem Firebase backend gearbeitet. Ich musste die Kommuni
 
 Heute habe ich...()
 
+## Arbeitspakete für 20.06.2025
+
+- [ ] group chat
+- [x] profile customization
+- [x] server
+
+Heute habe ich...()
