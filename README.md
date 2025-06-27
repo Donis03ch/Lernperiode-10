@@ -1,7 +1,7 @@
 # Lernperiode-10
 Grob-Planung
 
-02.05.2025 bis 27.07.2025
+02.05.2025 bis 27.06.2025
 
 ## Leit-Satz
 
